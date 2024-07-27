@@ -1,12 +1,12 @@
-# Beauty-pictures-24fa-crawling  
+# Beauty-pictures-crawling  
 Python脚本获取 24fa meiru.neocities.org xerocos.com 和 fuligirl.top 美女图片下载  
 
-![Watchers](https://img.shields.io/github/watchers/UiLgNoD-lIaMtOh/Beauty-pictures-24fa-crawling) ![Stars](https://img.shields.io/github/stars/UiLgNoD-lIaMtOh/Beauty-pictures-24fa-crawling) ![Forks](https://img.shields.io/github/forks/UiLgNoD-lIaMtOh/Beauty-pictures-24fa-crawling) ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=UiLgNoD-lIaMtOh.Python-script-EEBBK-learning-computer-H6-learning-materials-download) ![LICENSE](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
-<a href="https://star-history.com/#UiLgNoD-lIaMtOh/Beauty-pictures-24fa-crawling&Date">
+![Watchers](https://img.shields.io/github/watchers/UiLgNoD-lIaMtOh/Beauty-pictures-crawling) ![Stars](https://img.shields.io/github/stars/UiLgNoD-lIaMtOh/Beauty-pictures-crawling) ![Forks](https://img.shields.io/github/forks/UiLgNoD-lIaMtOh/Beauty-pictures-crawling) ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=UiLgNoD-lIaMtOh.Python-script-EEBBK-learning-computer-H6-learning-materials-download) ![LICENSE](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
+<a href="https://star-history.com/#UiLgNoD-lIaMtOh/Beauty-pictures-crawling&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=UiLgNoD-lIaMtOh/Beauty-pictures-24fa-crawling&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=UiLgNoD-lIaMtOh/Beauty-pictures-24fa-crawling&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=UiLgNoD-lIaMtOh/Beauty-pictures-24fa-crawling&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=UiLgNoD-lIaMtOh/Beauty-pictures-crawling&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=UiLgNoD-lIaMtOh/Beauty-pictures-crawling&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=UiLgNoD-lIaMtOh/Beauty-pictures-crawling&type=Date" />
   </picture>
 </a>
 
